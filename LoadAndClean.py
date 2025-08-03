@@ -1,6 +1,5 @@
 import pandas as pd
 
-
 def load_and_clean(inputPath):
     df = pd.read_csv(inputPath)
     new_df = df.dropna(axis=1, how='all').copy()

@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 
 
 def plot_bar(data, title, xlabel, ylabel, filename):
-    plt.figure(figsize=(12,6))
+    plt.figure(figsize=(14,7))
     data.plot(kind='bar')
     plt.title(title)
     plt.xlabel(xlabel)

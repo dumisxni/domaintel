@@ -1,0 +1,75 @@
+
+
+Domains per State:
+registrant_state
+Arizona                 155
+FL                       47
+California               44
+Florida                  21
+Texas                    19
+CA                       18
+Illinois                 16
+New York                 14
+WA                       11
+NY                       11
+Pennsylvania             10
+North Carolina           10
+AZ                       10
+Georgia                   9
+MA                        8
+Colorado                  8
+DC                        8
+Utah                      8
+IL                        7
+VA                        7
+Virginia                  7
+Washington                7
+Michigan                  6
+Nevada                    5
+NC                        4
+Missouri                  4
+PA                        4
+Minnesota                 4
+OR                        4
+Alabama                   4
+Indiana                   4
+Massachusetts             3
+GA                        3
+Maryland                  3
+Oklahoma                  3
+Connecticut               3
+New Hampshire             3
+MN                        3
+South Carolina            3
+Wisconsin                 3
+New Jersey                3
+Ohio                      3
+Arkansas                  2
+TN                        2
+District of Columbia      2
+New Mexico                2
+NM                        2
+CT                        2
+DE                        2
+NV                        2
+NJ                        2
+MD                        2
+Oregon                    2
+TX                        2
+Wyoming                   1
+US                        1
+KS                        1
+Iowa                      1
+S                         1
+UT                        1
+CO                        1
+MI                        1
+Alaska                    1
+Idaho                     1
+Maine                     1
+SC                        1
+OH                        1
+Montana                   1
+Nebraska                  1
+P                         1
+Kansas                    1
